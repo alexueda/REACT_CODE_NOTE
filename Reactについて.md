@@ -10,7 +10,7 @@ Reactとその関連プロジェクトは、強力なウェブプログラミン
 
 ### 創設者 Jordan Walkeの言葉
 
-> 「ずっと気にかかっていた小さなことを片付けることが、最高の薬だ。瞬間的な高揚感が得られる。」
+> "The best drug is getting little things done that have been weighing on you. Instant high."
 > 
 > — Jordan Walke（出典: Twitter）
 
