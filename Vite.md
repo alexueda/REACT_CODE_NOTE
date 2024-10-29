@@ -61,5 +61,3 @@ Vite CLI は、JavaScript `.js` 拡張子の代わりに `.jsx` 拡張子を JSX
     dist/assets/index-51439b3f.css    1.42 kB │ gzip:  0.74 kB
     dist/assets/index-58d24859.js   143.42 kB │ gzip: 46.13 kB
     ✓ built in 382ms
-
-+++
