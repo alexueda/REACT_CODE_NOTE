@@ -1,4 +1,4 @@
-##Step 1: Set Up a New Vite Project with React
+## Step 1: Set Up a New Vite Project with React
 
 Create a new Vite project with React:
 
@@ -8,7 +8,7 @@ cd your-app-name
 npm install
 ```
 
-##Step 2: Install React Router
+## Step 2: Install React Router
 
 Install React Router:
 
